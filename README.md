@@ -33,4 +33,4 @@ The Movie Search App is a responsive web application built with React.js. It lev
 
 ## Live Preview
 
-- You can visit <a href="https://flourishing-pithivier-f77e41.netlify.app/">the live preview</a>
+- You can visit <a href="https://aesthetic-mandazi-b24015.netlify.app/">the live preview</a>
