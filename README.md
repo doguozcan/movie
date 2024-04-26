@@ -4,6 +4,10 @@
 
 The Movie Search App is a responsive web application built with React.js. It leverages the OMDb API to allow users to search for movies and view the name and year information about them. Styled with Tailwind CSS, this app offers a modern and intuitive user interface, making it a nice project for developers looking to enhance their React skills, especially `useState` and `useEffect` hooks, and API integration abilities with a real world example.
 
+## Screenshot
+
+![movie](https://github.com/doguozcan/movie/assets/76822280/ca29c102-d4c0-4a5d-a1c1-d07e5f158dff)
+
 ## Features
 
 - **Searching**: Real-time movie search functionality using the OMDb API.
